@@ -12,3 +12,4 @@ for palavra in frase_separada:
     
 for palavra, contagem in frequencia.items():
     print(f"{palavra}: {contagem}")
+    
